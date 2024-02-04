@@ -12,7 +12,7 @@ Bonus mark: write a test that validates your script functions.
 ```bash
 # Example installation steps
 git clone https://github.com/darlington-olelewe/btrust-week-two.git
-cd btrust-week-one
+cd btrust-week-two
 mvn clean install
 mvn test
 ```
